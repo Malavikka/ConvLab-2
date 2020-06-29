@@ -1,7 +1,7 @@
 # Cherry Customer Service bot
 ## Instructions to run on Google Colab - 
 
-!git clone https://github.com/Malavikka/ConvLab-2.git
+!git clone https://github.com/Malavikka/ConvLab-2.git && cd ConvLab-2 && pip install -e .
 
 !pip install flask_ngrok
 

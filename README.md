@@ -40,6 +40,6 @@ Run the following steps on each cell of your Google Colab notebook
 
 * Add ‘/chat’ to the URL mentioned above on your browser
 
-  ![](images/)
+  ![](images/Screenshot%20from%202020-06-29%2018-40-17.png)
 
 > Note: Refer to [https://github.com/Malavikka/ConvLab-2/blob/master/chatbot_final.ipynb](https://github.com/Malavikka/ConvLab-2/blob/master/chatbot_final.ipynb) for an example deployment.

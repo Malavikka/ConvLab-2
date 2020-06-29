@@ -42,4 +42,4 @@ Run the following steps on each cell of your Google Colab notebook
 
 ![](images/)
 
-> Note: Refer to [https://github.com/Malavikka/ConvLab-2/blob/master/chatbot_final.ipynb](https://github.com/Malavikka/ConvLab-2/blob/master/chatbot_final.ipynb)
+> Note: Refer to [https://github.com/Malavikka/ConvLab-2/blob/master/chatbot_final.ipynb](https://github.com/Malavikka/ConvLab-2/blob/master/chatbot_final.ipynb) for an example deployment.

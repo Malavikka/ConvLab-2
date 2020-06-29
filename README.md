@@ -11,4 +11,4 @@ Click on the second URL for google colab
 
 Add ‘/chat’ to URL on browser
 
-"Refer to chatbot_final"
+### Refer to chatbot_final.ipynb
